@@ -18,3 +18,5 @@ Dies ist eine Web Statistic für Pokemon Go Linux Bot von<br>
 
 Bearbeite deine config.properties Datei und stelle
 **Export player/pokemondata on Profile Update.** -> export=JSON ein.
+
+In der Index-Datei den Phat zu der JSON Datei angeben.....
