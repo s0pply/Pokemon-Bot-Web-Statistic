@@ -12,3 +12,9 @@ Dies ist eine Web Statistic für Pokemon Go Linux Bot von<br>
 
 ![Pokemon Bot Main](http://poke.s0pply.de/poke1.PNG)
 ![Pokemon Bot Pokemon](http://poke.s0pply.de/poke2.PNG)
+
+
+### Settings
+
+Bearbeite deine config.properties Datei und stelle
+**Export player/pokemondata on Profile Update.** -> export=JSON ein.
